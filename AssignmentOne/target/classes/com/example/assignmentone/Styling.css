@@ -1,0 +1,11 @@
+.root{
+    -fx-font-family: "Arial Narrow";
+
+}
+#borderPane{
+    -fx-background-color: orange;
+}
+#buttonViewTable{
+    -fx-padding: 5px;
+    --block-text-color: white;
+}
